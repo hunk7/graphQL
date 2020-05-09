@@ -1,0 +1,19 @@
+{
+  "name": "Standard-GraphQL",
+  "version": "1.1.0",
+  "description": "graphql calls",
+  "main": "main.js",
+  "scripts": {
+    "devStart": "nodemon main.js"
+  },
+  "author": "Ganesh Bhadra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
